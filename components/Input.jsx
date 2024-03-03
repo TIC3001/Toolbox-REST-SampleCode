@@ -35,6 +35,8 @@ const Input = () => {
         title: '',
         description: ''
       });
+
+      window.location.reload();
     };
 
   return (
